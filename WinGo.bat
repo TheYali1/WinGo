@@ -2,7 +2,6 @@
 chcp 65001 >nul
 title WinGo - The Yali
 cls
-echo [7;31mplease click F11[0m
 echo [7;31mIf you gets errors, its fine![0m
 echo.
 echo [34m██╗    ██╗██╗███╗   ██╗ ██████╗  ██████╗     [0m
@@ -17,7 +16,6 @@ echo [96m╚███╔███╔╝██║██║ ╚████║╚
 ping localhost -n 1 >nul
 echo [96m ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝     [0m
 ping localhost -n 1 >nul
-pause
 echo.
 echo Loading...
 ping localhost -n 1 >nul
