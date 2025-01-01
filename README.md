@@ -9,7 +9,7 @@
 ## License
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-![preview1](https://i.imagesup.co/images2/72c99b2b12836f9c381b152dfc1f46037f61f842.png "Preview")
+![preview1](https://i.imgur.com/rKgLQS2_d.webp?maxwidth=760&fidelity=grand "Preview")
 
 ## Support
 For any issues or questions, feel free to contact my support email at [wingosup@gmail.com](mailto:wingosup@gmail.com).
