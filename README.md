@@ -20,6 +20,5 @@ The bat (The Old Source Code) file: https://www.virustotal.com/gui/file/ea16d6b8
 The py code (software code): https://www.virustotal.com/gui/file/84d3a4e59dbf1eae88e9a5815cbd8d5d96dd3ff9b7bf7ba1ad8d607c95f2440e
 
 ## proof
-[![proof](https://img.youtube.com/vi/byAeNJDRYBM/0.jpg)](https://www.youtube.com/watch?v=byAeNJDRYBM)
-## outdated!
+[![proof](https://img.youtube.com/vi/byAeNJDRYBM/0.jpg)](https://www.youtube.com/watch?v=byAeNJDRYBM) (outdated!)
 </div>
