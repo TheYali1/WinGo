@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   
-![main logo](https://raw.githubusercontent.com/TheYali1/WinGo/refs/heads/main/WinGo%20main%20logo.png "WinGo logo")
+![main logo](https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png "WinGo logo")
 
 ## Requirements
 - OS: Windows 10+
