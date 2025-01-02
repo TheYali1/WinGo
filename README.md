@@ -4,12 +4,12 @@
 
 ## Requirements
 - OS: Windows 10+
-- 100 MB of available storage space
+- 10 MB of available storage space
 
 ## License
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-![preview1](https://i.imgur.com/rKgLQS2_d.webp?maxwidth=760&fidelity=grand "Preview")
+![preview1](https://i.imgur.com/qulbldF_d.webp?maxwidth=760&fidelity=grand "Preview")
 
 ## Support
 For any issues or questions, feel free to contact my support email at [wingosup@gmail.com](mailto:wingosup@gmail.com).
