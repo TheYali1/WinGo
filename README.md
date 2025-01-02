@@ -15,9 +15,7 @@ This software is licensed under the [MIT License](https://opensource.org/license
 For any issues or questions, feel free to contact my support email at [wingosup@gmail.com](mailto:wingosup@gmail.com).
 
 ## virustotal
-The bat (The Old Source Code) file: https://www.virustotal.com/gui/file/ea16d6b85732893e82ef29cdfa71110977eb94bce5a5a6c71ff031f5f891fc7b
-
-The py code (software code): https://www.virustotal.com/gui/file/84d3a4e59dbf1eae88e9a5815cbd8d5d96dd3ff9b7bf7ba1ad8d607c95f2440e
+The py code (software code): [https://www.virustotal.com/gui/file/84d3a4e59dbf1eae88e9a5815cbd8d5d96dd3ff9b7bf7ba1ad8d607c95f2440e](https://www.virustotal.com/gui/file/aae9b1b8a5677eac6c8867ae6ac0c41a3a97bef5ccfe40e126ec7c48aa07ccbc)
 
 ## proof
 [![proof](https://img.youtube.com/vi/byAeNJDRYBM/0.jpg)](https://www.youtube.com/watch?v=byAeNJDRYBM) (outdated!)
