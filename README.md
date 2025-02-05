@@ -27,11 +27,10 @@
 
   <hr style="border: 1px solid white; width: 80%;">
 
-  <h2>✅ Proof</h2>
-  <a href="https://www.youtube.com/watch?v=byAeNJDRYBM">
-    <img src="https://img.youtube.com/vi/byAeNJDRYBM/0.jpg" alt="proof" 
+  <h2>✅ Proof and tutorial</h2>
+  <a href="https://www.youtube.com/watch?v=AajIpq1IslY">
+    <img src="https://img.youtube.com/vi/AajIpq1IslY/0.jpg" alt="Proof and tutorial" 
          style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
   </a>
-  <p>(outdated!)</p>
 
 </div>
