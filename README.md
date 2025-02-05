@@ -1,19 +1,37 @@
-<div style="text-align:center;">
-  
-![main logo](https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png "WinGo logo")
+<div align="center" style="background-color: #333333; padding: 20px; border-radius: 10px; color: white;">
 
-## Requirements
-- OS: Windows 10+
-- 200 MB of available storage space
+  <img src="https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png" alt="WinGo logo" 
+       style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
 
-## License
-This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+  <h2>Requirements</h2>
+  <ul style="display: inline-block; text-align: left;">
+    <li>OS: Windows 10+</li>
+    <li>200 MB of available storage space</li>
+  </ul>
 
-![preview1](https://i.imagesup.co/images2/02af25d5fbf8b07245a5482271b8cffb40282111.png "Preview")
+  <hr style="border: 1px solid white; width: 80%;">
 
-## Support
-For any issues or questions, feel free to contact my support email at [wingosup@gmail.com](mailto:wingosup@gmail.com).
+  <h2>License</h2>
+  <p>This software is licensed under the <a href="https://opensource.org/licenses/MIT" style="color: #66ccff;">MIT License</a>.</p>
 
-## proof
-[![proof](https://img.youtube.com/vi/byAeNJDRYBM/0.jpg)](https://www.youtube.com/watch?v=byAeNJDRYBM) (outdated!)
+  <hr style="border: 1px solid white; width: 80%;">
+
+  <h2>🔍 Preview</h2>
+  <img src="https://i.imagesup.co/images2/02af25d5fbf8b07245a5482271b8cffb40282111.png" alt="Preview" 
+       style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
+
+  <hr style="border: 1px solid white; width: 80%;">
+
+  <h2>📩 Support</h2>
+  <p>For any issues or questions, feel free to contact my support email at <a href="mailto:wingosup@gmail.com" style="color: #66ccff;">wingosup@gmail.com</a>.</p>
+
+  <hr style="border: 1px solid white; width: 80%;">
+
+  <h2>✅ Proof</h2>
+  <a href="https://www.youtube.com/watch?v=byAeNJDRYBM">
+    <img src="https://img.youtube.com/vi/byAeNJDRYBM/0.jpg" alt="proof" 
+         style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
+  </a>
+  <p>(outdated!)</p>
+
 </div>
