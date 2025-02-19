@@ -2,6 +2,9 @@
 
   <img src="https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png" alt="WinGo logo" 
        style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
+       
+   <img src="https://i.imagesup.co/images2/3a3c6c08a8438023cd50e115d703a97d92a8d5b7.png" alt="WinGo logo" 
+       style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
 
   <h2>Requirements</h2>
   <ul style="display: inline-block; text-align: left;">
