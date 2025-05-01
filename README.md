@@ -7,7 +7,7 @@
   <h2>Requirements</h2>
   <ul style="display: inline-block; text-align: left;">
     <li>OS: Windows 10+</li>
-    <li>200 MB of available storage space</li>
+    <li>25 MB of available storage space</li>
   </ul>
 
   <hr style="border: 1px solid white; width: 80%;">
