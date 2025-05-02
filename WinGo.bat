@@ -2,6 +2,12 @@
 title WinGo - by TheYali1
 chcp 65001 >nul
 setlocal enabledelayedexpansion
+@echo off
+net session >nul 2>&1
+if %errorlevel% neq 0 (
+    powershell -Command "Start-Process '%~f0' -Verb RunAs"
+    exit /b
+)
 :start
 echo.
 echo                                      [38;2;0;255;0m██╗    ██╗██╗███╗   ██╗ ██████╗  ██████╗ ██╗[0m
