@@ -2,7 +2,6 @@
 title WinGo - by TheYali1
 chcp 65001 >nul
 setlocal enabledelayedexpansion
-@echo off
 net session >nul 2>&1
 if %errorlevel% neq 0 (
     powershell -Command "Start-Process '%~f0' -Verb RunAs"
@@ -35,70 +34,70 @@ if %windowsver%==1 (
     slmgr /skms kms8.msguides.com >nul
     slmgr /ato >nul
     powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-    shutdown -r
+    echo [101;93mPlease restart your computer[0m
 ) else (
     if %windowsver%==2 (
         slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9 >nul
         slmgr /skms kms8.msguides.com >nul
         slmgr /ato >nul
         powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-        shutdown -r
+        echo [101;93mPlease restart your computer[0m
     ) else (
         if %windowsver%==3 (
             slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 >nul
             slmgr /skms kms8.msguides.com >nul
             slmgr /ato >nul
             powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-            shutdown -r
+            echo [101;93mPlease restart your computer[0m
         ) else (
             if %windowsver%==4 (
                 slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM >nul
                 slmgr /skms kms8.msguides.com >nul
                 slmgr /ato >nul
                 powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                shutdown -r
+                echo [101;93mPlease restart your computer[0m
             ) else (
                 if %windowsver%==5 (
                     slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH >nul
                     slmgr /skms kms8.msguides.com >nul
                     slmgr /ato >nul
                     powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                    shutdown -r
+                    echo [101;93mPlease restart your computer[0m
                 ) else (
                     if %windowsver%==6 (
                         slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR >nul
                         slmgr /skms kms8.msguides.com >nul
                         slmgr /ato >nul
                         powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                        shutdown -r
+                        echo [101;93mPlease restart your computer[0m
                     ) else (
                         if %windowsver%==7 (
                             slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 >nul
                             slmgr /skms kms8.msguides.com >nul
                             slmgr /ato >nul
                             powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                            shutdown -r
+                            echo [101;93mPlease restart your computer[0m
                         ) else (
                             if %windowsver%==8 (
                                 slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 >nul
                                 slmgr /skms kms8.msguides.com >nul
                                 slmgr /ato >nul
                                 powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                                shutdown -r
+                                echo [101;93mPlease restart your computer[0m
                             ) else (
                                 if %windowsver%==9 (
                                     slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 >nul
                                     slmgr /skms kms8.msguides.com >nul
                                     slmgr /ato >nul
                                     powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                                    shutdown -r
+                                    echo [101;93mPlease restart your computer[0m
                                 ) else (
                                     if %windowsver%==10 (
                                         slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ >nul
                                         slmgr /skms kms8.msguides.com >nul
                                         slmgr /ato >nul
                                         powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [void][System.Windows.Forms.MessageBox]::Show('Your PC is activate windows successfully!','Success','OK','Information')"
-                                        shutdown -r
+                                        echo [101;93mPlease restart your computer[0m
                                     ) else (
                                         cls
                                         goto start
