@@ -1,8 +1,8 @@
 <div align="center" style="background-color: #333333; padding: 20px; border-radius: 10px; color: white;">
 
        
-   <img src="https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png" alt="WinGo logo" 
-       style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px;">
+<img src="https://i.imagesup.co/images2/d53db4507e41d5ea3193b57dda5881af62406186.png" alt="WinGo logo" 
+     style="box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5); border-radius: 10px; width: 500px;">
 
   <h2>Requirements</h2>
   <ul style="display: inline-block; text-align: left;">
